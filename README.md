@@ -3,7 +3,7 @@
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-red?style=flat)
 ![Status](https://img.shields.io/badge/Status-Development-orange?style=flat) 
 
-# 📦 Csomagkövető Automatizáció (Kuehne+Nagel)
+# 📦 Csomagkövető Automatizáció
 
 Ez a projekt automatizálja a csomagok (Kuehne+Nagel és GLS) nyomon követését. A szkript egy Excel fájlból beolvassa a csomagszámokat és az irányítószámokat, majd a háttérben (Web Scraping és belső API hívások segítségével) lekérdezi a csomagok legfrissebb útvonal-adatait és státuszát.
 
